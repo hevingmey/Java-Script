@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e01b6725-ce45-49ef-a12d-7d815e85fe0c" name="Changes" comment="add hw 2">
-      <change afterPath="$PROJECT_DIR$/work/HW3.js" afterDir="false" />
+    <list default="true" id="e01b6725-ce45-49ef-a12d-7d815e85fe0c" name="Changes" comment="add hw 3">
+      <change afterPath="$PROJECT_DIR$/work/HW4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work/User.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/work/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/work/index.html" afterDir="false" />
     </list>
@@ -14,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hevingmey"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hevingmey/Java-Script.git",
+    "accountId": "44867a42-d2c2-404a-9f5a-31b34f998fbb"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7,
   &quot;fromUser&quot;: false
@@ -26,8 +39,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.CW1.js.executor": "Run",
     "Node.js.HW2.js.executor": "Run",
     "Node.js.HW3.js.executor": "Run",
+    "Node.js.HW4.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -38,6 +53,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/work" />
+      <recent name="$PROJECT_DIR$/CWork" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -53,7 +74,10 @@
       <option name="presentableId" value="Default" />
       <updated>1779135793765</updated>
       <workItem from="1779135794848" duration="100000" />
-      <workItem from="1779144934215" duration="13727000" />
+      <workItem from="1779144934215" duration="14309000" />
+      <workItem from="1779651779168" duration="1682000" />
+      <workItem from="1779722843034" duration="41000" />
+      <workItem from="1779723856905" duration="6204000" />
     </task>
     <task id="LOCAL-00001" summary="add hw 2">
       <option name="closed" value="true" />
@@ -63,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779190808124</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add hw 3">
+      <option name="closed" value="true" />
+      <created>1779202626671</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779202626671</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add hw 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw 2" />
+    <MESSAGE value="add hw 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw 3" />
   </component>
 </project>
